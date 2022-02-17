@@ -14,4 +14,4 @@ Una descripción de la operación con números complejos y fasores empleando Pyt
 
 Se presenta el uso de bibliotecas de Python para la simulación y generación de gráficas.
 
-- [Python en Teoría Electromagnética](https://colab.research.google.com/github/FerneyOAmaya/TeoríaElectromagnetica/blob/master/PythonTeoriaEM.ipynb)
+- [Python en Teoría Electromagnética](https://colab.research.google.com/github/FerneyOAmaya/TeoriaElectromagnetica/blob/master/PythonTeoriaEM.ipynb)
